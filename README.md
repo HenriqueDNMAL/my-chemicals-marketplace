@@ -9,6 +9,7 @@
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
+- [Getting Started](#getting-started)
 
 ## Overview
 
