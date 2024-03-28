@@ -13,21 +13,21 @@
 
 ## Overview
 
-MyChemicals Marketplace is an innovative platform aimed at empowering farmers and their employees with a comprehensive tool for managing and monitoring chemical inventories. Designed to provide greater control, efficiency, and safety in stock management, it facilitates better operational oversight and compliance with safety standards.
+MyChemicals Marketplace is an innovative platform designed to the buying and selling of chemical products. Developed with the aim of empowering users to transact with ease and confidence, our marketplace offers a safe, user-friendly environment for the chemical industry.
 
 ## Key Features
 
-- **Chemical Inventory Management**: Streamline the tracking and management of chemicals with detailed inventory controls.
-- **Safety and Compliance**: Access to safety data sheets and compliance tracking to ensure safe handling and usage.
-- **User-friendly Dashboard**: Intuitive interface for easy management and monitoring of chemical stocks.
-- **Collaborative Environment**: Facilitates communication and information sharing among employees for improved safety and efficiency.
+- **Marketplace Functionality**: Facilitates secure buying and selling of chemical products, with comprehensive listing features.
+- **Feedback System**: Enables users to provide ratings and reviews, fostering trust within the community.
+- **Inventory Management for Sellers**: Offers sellers tools to manage their product listings, and stock levels.
+- **Advanced Search and Filters**: Allows users to easily find specific chemicals by product, and description.
 
 ## Technology Stack
 
-- **Frontend**: [Turbo](https://turbo.hotwire.dev/) alongside [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/) for rapid development and responsive design.
-- **Backend**: [Ruby on Rails](https://rubyonrails.org/) as the application framework, with [PostgreSQL](https://www.postgresql.org/) for data management.
-- **Security**: Role-based access control implemented with [Pundit](https://github.com/varvet/pundit) for secure data handling and user permissions management.
-- **Deployment**: Utilizes [Docker](https://www.docker.com/) for environment consistency and [Heroku](https://www.heroku.com/) for cloud-based deployment.
+- **Frontend**: [Turbo](https://turbo.hotwire.dev/) for rapid web development, [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/) for styling.
+- **Backend**: [Ruby on Rails](https://rubyonrails.org/) for application logic and [PostgreSQL](https://www.postgresql.org/) for database management.
+- **Security**: Role-based access control implemented, ensuring secure access to features and data.
+- **Deployment**: [Docker](https://www.docker.com/) for containerization, [Heroku](https://www.heroku.com/) for easy cloud deployment.
 
 ## Getting Started
 
